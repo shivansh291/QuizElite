@@ -1,3 +1,7 @@
-import { removeTimerWhenTimeOver } from './index.js'
+import {
+  removeTimerWhenTimeOver,
+  useAnswerIsCorrect
+} from './index.js'
 
-removeTimerWhenTimeOver(10)
+removeTimerWhenTimeOver(30)
+useAnswerIsCorrect()

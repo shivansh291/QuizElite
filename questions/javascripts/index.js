@@ -14,17 +14,34 @@ export function removeTimer() {
 }
 
 export function removeTimerWhenTimeOver(timeVal) {
+  const footer = document.querySelector('footer')
+  const childTimer = document.querySelector('.timer')
   let timerTime = timeVal;
   timer(timerTime)
   setInterval(function() {
     timerTime = timerTime - 1
     if (timerTime == 0) {
-      removeTimer()
+      if (footer.contains(childTimer)){
+        removeTimer()
+      }
     }
   },
     1000);
 }
 
-function getRandomNumberBetweenOneAndThree() {
+export function getRandomNumberBetweenOneAndThree() {
   return Math.floor(Math.random() * 3) + 1;
+}
+
+export function useAnswerIsCorrect() {
+  const correctAnswer = document.querySelector('#correct')
+  const footer = document.querySelector('footer')
+  correctAnswer.addEventListener('click',
+    () => {
+      const songElement = document.createElement('audio')
+      songElement.src = ""
+      songElement.controls = true
+      footer.appendChild(songElement)
+      removeTimer()
+    })
 }
