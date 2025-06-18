@@ -7,25 +7,27 @@
     <link rel="stylesheet" href="css/RCB.css" type="text/css" media="all" />
   </head>
   <body>
+    <button class="playPause"></button>
     <main>
       <div class="que">
-        <h1>What is the unit of speed</h1>
+        <h1>If the roots of the quadratic equation ax<sup>2</sup> + bx + c = 0 are real and equal, then:</h1>
       </div>
       <div class="opt">
-        <button class="opt1 incorrect">m/s <sup>2</sup></button>
+        <button class="opt1 incorrect">b<sup>2</sup> - 4ac > 0</button>
         
-        <button class="opt2" id="correct">m/s</button>
+        <button class="opt2" id="correct">b<sup>2</sup> - 4ac = 0</button>
         
-        <button class="opt3 incorrect">m</button>
+        <button class="opt3 incorrect">b<sup>2</sup> - 4ac < 0</button>
         
-        <button class="opt4 incorrect">s</button>
+        <button class="opt4 incorrect">b<sup>2</sup> + 4ac = 0</button>
       </div>
       <footer>
         <div class="timer"></div>
         <a href="que2.html"><button class="unattempt">Unattempt</button></a>
-        <a href="que2.html"><button>Next</button></a>
+        <a href="que2.html" class="aTag"><button class="nextBtn">Next</button></a>
       </footer>
     </main>
-    <script src="./javascripts/que1.js" type="module" charset="utf-8"></script>
+    <script src="./javascripts/main.js" type="module" charset="utf-8"></script>
+    <script src="./javascripts/rcb.js" type="module" charset="utf-8"></script>
   </body>
 </html>

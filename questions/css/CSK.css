@@ -9,11 +9,11 @@ html, body{
 }
 body{
   background: linear-gradient(135deg, #FCCA06, #00ADEF);
-  color: #e8e3e3;
-  display: flex;
+  color: #e8e3e3;display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  gap: 20px;
+  
 }
 
 main{
@@ -62,4 +62,15 @@ footer button{
 }
 .timer{
   font-size: 40px;
+}
+.playPause{
+  color: #fff;
+  background-color: red;
+  border: none;
+  height: 30px;
+  width: 70px;
+  border-radius: 50px;
+}
+.unattempt{
+  background-color: red;
 }
