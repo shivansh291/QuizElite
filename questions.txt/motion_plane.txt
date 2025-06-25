@@ -1,0 +1,101 @@
+Q1) The x and y coordinates of the particle at any time are x = 5t - 2t <sup> 2 </sup> and y = 10t respectively, where x and y are in meters and t is in seconds. The acceleration of the particle at t = 2s is
+
+0 
+5 m/s <sup> 2 </sup>
+-4 m/s <sup> 2 </sup>
+-8 m/s <sup> 2 </sup>
+
+Answer : (c) -4 m/s <sup> 2 </sup>
+
+
+Q2) A particle has initial velocity ( 2 hat i +3 hat j ) and acceleration ( 3 hat i +02 hat j ) The magnitude of velocity after 10 s will be
+
+(a) 9sqrt(2) units
+
+(b) 5sqrt(2) units
+
+(c) 5 units
+
+(d) 9 units
+
+Answer : (b) 5sqrt(2) units
+
+
+Q3) A and B are two vectors and ∅ is the angle between them. If |AB| = sqrt(3) * (AB) then the value of ∅ is
+
+(a) 60 deg
+
+(b) 45 deg
+
+(c) 30 deg
+
+(d) 90 deg
+
+Answer : (a) 60 deg
+
+
+Q4) A person swims in a river aiming to reach exactly opposite point on the bank of a river. His speed of swimming is 0.5 m/s at an angle 120° with the direction of flow of water. The speed of water in stream is
+
+(a) 1.0 m/s
+
+(b) 0.5 m/s
+
+(c) 0.25 m/s
+
+(d) 0.43 m/s
+
+Answer : (c) 0.25 m/s
+
+
+Q5) Which is the vector that gives the position of a point with reference to a point other than the origin of the coordinate system?
+
+Coplanar Vectors
+Equal vector
+Unit Vector
+Displacement vector
+Answer: (d) Displacement vector 
+
+
+Q6) Which theorem states that “If a particle under the simultaneous action of three forces is in equilibrium, then each force has a constant ratio with the sine of the angle between the other two forces”?
+
+Lay’s theorem
+Lami’s Theorem
+Newton’s law
+Faraday’s theorem
+Answer: (b) Lami’s theorem
+
+
+Q7) Vectors lying in the same or parallel to the same plane are called ————–
+
+Coplanar vectors
+Equal vector
+Unit Vector
+Displacement vector
+Answer: (a) Coplanar vectors 
+
+
+Q8) Dot product is distributive, it is given as
+
+A.(B-C) = A.B*A.C
+A.(B+C) = A.B-A.C
+A.(B+C) = A.B+A.C
+A.(B*C) = A.B/A.C
+Answer: (c) A.(B+C) = A.B+A.C 
+
+
+Q9) Give an example of motion in two dimensions _________________
+
+Motion along a straight line in any direction
+Bird flying
+A flying kite
+Projectile motion
+Answer: (d) Projectile motion 
+
+
+Q10) Motion in a plane is called _________________
+
+Motion in one dimension
+Motion in two dimensions
+Motion in three dimensions
+Motion in four dimensions
+Answer: (b) Motion in two dimensions

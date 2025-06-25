@@ -1,0 +1,104 @@
+Q1) The angle of 1 (minute of arc) in radian is nearly equal to
+
+2.91 * 10 ^ - 4 rad
+
+4.85 * 10 ^ - 4 rad
+
+4.8 * 10 ^ - 6 rad
+
+1.75 * 10 ^ - 2 rad
+
+Answer : (a) 2.91 * 10 ^ - 4 rad
+
+
+Q2) The value of Planck's constant in SI unit is
+
+653 * 10 ^ - 31 * J - 5
+
+6.63 * 10 ^ - 30 kg - m/s
+
+6.63 * 10 ^ - 32 * kg - m ^ 2
+
+6.63 * 10 ^ - 34 * J - s
+
+Answer : (d) 6.63 * 10 ^ - 34 * J - s
+
+
+Q3) Dimensions of resistance in an electrical circuit, in terms of dimension of mass M, length L, time Tand current I, would be
+
+[M * L ^ 2 * T ^ (- beta) * I ^ - 1]
+
+[M * L ^ 2 * T ^ - 2]
+
+[M * L ^ 2 * T ^ - 1 * I ^ - 1]
+
+[M * L ^ 2 * T ^ - 3 * I ^ - 2]
+
+Answer : (d) [M * L ^ 2 * T ^ - 3 * I ^ - 2] 
+
+
+Q4) The errors in the measurement which arise due to unpredictable fluctuations in temperature and voltage supply are
+
+personal errors
+
+random errors
+
+least count errors
+
+instrumental errors
+
+Answer : (c) random errors
+
+
+Q5) The symbol to represent “Amount of Substance” is ________
+
+K
+A
+Cd
+mol
+Answer: (d) mol
+
+
+Q6) Dimensions of kinetic energy is the same as that of ________
+
+Acceleration
+Velocity
+Work
+Force
+Answer: (c) Work
+
+
+Q7) Farad is the unit of ________
+
+Luminosity
+Wavelength
+Permittivity
+Inertia
+Answer: (c) Permittivity
+
+
+Q8) Joule second is the unit of
+
+Force
+Angular momentum
+Energy
+Power
+Answer: (b) Angular momentum
+
+
+Q9) Which is the system of unit
+
+SMS system
+MKP system
+FPS System
+CJS System
+Answer: (c) FPS System
+
+
+Q10) AU is the unit of ________
+
+Astronomy Unit
+Astronomical unit
+Astrological Unit
+Archaeological Unit
+Answer: (b) Astronomical unit 

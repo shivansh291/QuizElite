@@ -1,0 +1,128 @@
+Q1) If sin θ and cos θ are the roots of ax2 – bx + c = 0, then the relation between a, b and c will be
+
+(a) a2 + b2 + 2ac = 0
+
+(b) a2 – b2 + 2ac = 0
+
+(c) a2 + c2 + 2ab = 0
+
+(d) a2 – b2 – 2ac = 0
+
+Correct option: (b) a2 – b2 + 2ac = 0
+
+
+Q2) If tan A = 1/2 and tan B = 1/3, then the value of A + B is
+
+(a) π/6
+
+(b) π
+
+(c) 0
+
+(d) π/4
+
+Correct option: (d) π/4
+
+
+Q3) The value of cos 1° cos 2° cos 3° … cos 179° is
+
+(a) 1/√2
+
+(b) 0
+
+(c) 1
+
+(d) –1
+
+Correct option: (b) 0
+
+
+Q4) The value of sin 50° – sin 70° + sin 10° is equal to
+
+(a) 1
+
+(b) 0
+
+(c) 1/2
+
+(d) 2
+
+Correct option: (b) 0 
+
+
+Q5) The value of sin (45° + θ) – cos (45° – θ) is
+
+(a) 2 cosθ
+
+(b) 2 sinθ
+
+(c) 1
+
+(d) 0
+
+Correct option: (d) 0 
+
+
+Q6) The value of tan 1° tan 2° tan 3° … tan 89° is
+
+(a) 0
+
+(b) 1
+
+(c) 1/2
+
+(d) Not defined
+
+Correct option: (b) 1 
+
+
+Q7) If α + β = π/4, then the value of (1 + tan α) (1 + tan β) is
+
+(a) 1
+
+(b) 2
+
+(c) – 2
+
+(d) Not defined
+
+Correct option: (b) 2 
+
+
+Q8) If A lies in the second quadrant and 3 tan A + 4 = 0, then the value of (2 cot A – 5 cos A + sin A) is equal to
+
+(a) -53/10
+
+(b) 23/10
+
+(c) 37/10
+
+(d) 7/10
+
+Correct option: (b) 23/10 
+
+
+Q9) If for real values of x, cos θ = x + (1/x), then
+
+(a) θ is an acute angle
+
+(b) θ is right angle
+
+(c) θ is an obtuse angle
+
+(d) No value of θ is possible
+
+Correct option: (d) No value of θ is possible
+
+
+Q10) Number of solutions of the equation tan x + sec x = 2 cos x lying in the interval [0, 2π] is
+
+(a) 0
+
+(b) 1
+
+(c) 2
+
+(d) 3
+
+Correct option: (c) 2

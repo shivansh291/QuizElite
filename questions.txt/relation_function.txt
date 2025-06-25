@@ -1,0 +1,127 @@
+Q1) If f(x) = x3 – (1/x3), then f(x) + f(1/x) is equal to
+
+(a) 2x3
+
+(b) 2/x3
+
+(c) 0
+
+(d) 1
+
+Correct option: (c) 0
+
+
+Q2) If f(x) = x2 + 2, x ∈ R, then the range of f(x) is
+
+(a) [2, ∞)
+
+(b) (-∞, 2]
+
+(c) (2, ∞)
+
+(d) (-∞, 2) U (2, ∞)
+
+Correct option: (a) [2, ∞)
+
+
+Q3) What will be the domain for which the functions f(x) = 2x2 – 1 and g(x) = 1 – 3x are equal?
+
+(a) {-2, 1}
+
+(b) {1/2, -2}
+
+(c) [2, 12]
+
+(d) (-1, 2)
+
+Correct option: (b) {1/2, -2}
+
+
+Q4)  If [x]2 – 5 [x] + 6 = 0, where [ . ] denotes the greatest integer function, then
+
+(a) x ∈ [3, 4]
+
+(b) x ∈ (2, 3]
+
+(c) x ∈ [2, 3]
+
+(d) x ∈ [2, 4)
+
+Correct option: (d) x ∈ [2, 4)
+
+
+Q5) If f(x) = ax + b, where a and b are integers, f(–1) = – 5 and f(3) = 3, then a and b are equal to
+
+(a) a = – 3, b = –1
+
+(b) a = 2, b = – 3
+
+(c) a = 0, b = 2
+
+(d) a = 2, b = 3
+
+Correct option: (b) a = 2, b = – 3 
+
+
+Q6) The domain of the function f(x) = x/(x2 + 3x + 2) is
+
+(a) [-2, -1]
+
+(b) R – {1, 2}
+
+(c) R – {-1, -2}
+
+(d) R – {2}
+
+Correct option: (c) R – {-1, -2} 
+
+
+Q7) The range of f(x) = √(25 – x2) is
+
+(a) (0, 5)
+
+(b) [0, 5]
+
+(c) (-5, 5)
+
+(d) [1, 5]
+
+Correct option: (b) [0, 5]
+
+
+Q8) The domain and range of the real function f defined by f(x) = (4 – x)/(x – 4) is given by
+
+(a) Domain = R, Range = {–1, 1}
+
+(b) Domain = R – {1}, Range = R
+
+(c) Domain = R – {4}, Range = {– 1}
+
+(d) Domain = R – {– 4}, Range = {–1, 1}
+
+Correct option: (c) Domain = R – {4}, Range = {– 1}
+
+
+Q9) The domain and range of the function f given by f(x) = 2 – |x −5| is
+
+(a) Domain = R+ , Range = ( – ∞, 1]
+
+(b) Domain = R, Range = ( – ∞, 2]
+
+(c) Domain = R, Range = (– ∞, 2)
+
+(d) Domain = R+ , Range = (– ∞, 2]
+
+Correct option: (b) Domain = R, Range = ( – ∞, 2]
+
+
+Q10) The domain of the definition of the real function f(x) = √(log12 x²) of the real variable x is
+
+(a) x > 0
+
+(b) |x| ≥ 1
+
+(c) |x| > 4
+
+(d) x ≥ 4 
+Correct option : (b) |x| ≥ 1

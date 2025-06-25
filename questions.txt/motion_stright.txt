@@ -1,0 +1,100 @@
+Q1) A vehicle travels half the distance with speed v and the remaining distance with speed 2v. Its average speed is
+
+(a) (2v)/3
+
+(b) (4v)/3
+
+(c) (3v)/4
+
+(d) v/3
+Answer : (b) 4v/3
+
+
+
+Q2) A stone is thrown vertically upwards. When stone is at a height half of its maximum height, its speed is 10m / s then the maximum height attained by the stone is (g = 10m / (s ^ 2))
+
+(a) 8 m
+
+(b) 10 m
+
+(c) 15 m
+
+(d) 20 m
+Answer : (b) 10m
+
+
+Q3) A body starts from rest. what is the ratio of the distance travelled by the body during the 4th and 3rd second?
+
+t) 7/5
+
+(b) 5/7
+
+(c) 7/3
+
+(d) 3/7
+Answer : (a) 7/5 
+
+
+Q4) A body dropped from top of a tower fall through 40 m during the last two seconds of its fall. The height of tower is (g = 10m / (s ^ 2))
+
+(a) 60 m
+
+(b) 45 m
+
+(c) 80 m
+
+(d) 50 m 
+Answer : (b) 45m 
+
+
+Q5) For the motion with uniform velocity, the slope of the velocity-time graph is equal to
+
+1 m/s
+Zero
+Initial velocity
+Final velocity
+Answer: (b) Zero
+
+
+Q6) The change in velocity corresponding to the time interval within which the change has accelerated is known as _________________
+
+Speed
+Instantaneous Velocity
+Uniform Motion
+Average Acceleration
+Answer: (d) Average Acceleration
+
+
+Q7) A particle is moving with a constant speed along a straight-line path. A force is not required to
+
+change its direction
+decrease its speed
+keep it moving with uniform velocity
+Increase its momentum
+Answer: (c) keep it moving with uniform velocity 
+
+
+Q8) When the distance travelled by a body is proportional to the time taken. What happens to its speed?
+
+Becomes zero
+Remains the same
+Increases
+Decreases
+Answer: (b) Remains the same
+
+
+Q9) Which among the following can be zero when a particle is in motion for some time.
+
+Speed
+Force
+Time
+Displacement
+Answer: (d) Displacement
+
+Q10) The ratio of the average velocity and average speed of a body is
+
+1
+More than 1
+1 or Less than 1
+None of these options
+Answer: (c) 1 or Less than 1 
