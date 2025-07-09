@@ -1,12 +1,12 @@
-Q1) If sin θ and cos θ are the roots of ax2 – bx + c = 0, then the relation between a, b and c will be
+Q1) If sin θ and cos θ are the roots of ax² – bx + c = 0, then the relation between a, b and c will be
 
-(a) a2 + b2 + 2ac = 0
+(a) a² + b² + 2ac = 0
 
-(b) a2 – b2 + 2ac = 0
+(b) a² – b² + 2ac = 0
 
-(c) a2 + c2 + 2ab = 0
+(c) a² + c² + 2ab = 0
 
-(d) a2 – b2 – 2ac = 0
+(d) a² – b² – 2ac = 0
 
 Correct option: (b) a2 – b2 + 2ac = 0
 
@@ -82,7 +82,7 @@ Q7) If α + β = π/4, then the value of (1 + tan α) (1 + tan β) is
 
 (b) 2
 
-(c) – 2
+(c) –2
 
 (d) Not defined
 

@@ -6,6 +6,6 @@ import {
 } from './index.js'
 
 onClickPlayPauseButton()
-removeTimerWhenTimeOver(30)
+removeTimerWhenTimeOver(45)
 onClickNextButton()
 useAnswerIsIncorrect()
