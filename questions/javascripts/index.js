@@ -66,7 +66,7 @@ export function useAnswerIsCorrect(team) {
   correctAnswer.addEventListener('click',
     () => {
       const songElement = document.createElement('audio')
-      songElement.src = `./assets/songs/${team}/${team}Correct1.mp3`
+      songElement.src = `./assets/songs/${team}/${team}Correct${getRandomNumberBetweenOneAndThree()}.mp3`
       songElement.controls = true
       songElement.play()
       removeTimer()
